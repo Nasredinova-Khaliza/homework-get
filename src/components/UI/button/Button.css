@@ -1,0 +1,27 @@
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.addButton {
+  width: 200px;
+  height: 60px;
+  border: none;
+  border-radius: 12px;
+  background-color: rgb(61, 61, 205);
+  color: white;
+}
+
+.deleteButton{
+  width: 200px;
+  height: 60px;
+  border: none;
+  border-radius: 12px;
+  background-color: red;
+  color: white;
+}
+
